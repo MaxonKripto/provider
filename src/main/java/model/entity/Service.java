@@ -2,7 +2,7 @@ package model.entity;
 
 public class Service extends Model {
     private String name;
-    private String description; //в бд стоит тип text, что должно быть тут?
+    private String description;
     private int price;
     private String type;
 
